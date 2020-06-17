@@ -1,5 +1,6 @@
 # X-70B-Phantom
 A plugin for Endless Sky. It adds the X-70B Phantom from Star Wars.
+The X-70B Phantom-class prototype was a prototype starship of the reconstituted Sith Empire used by Imperial Intelligence.
 
 # Install
 
