@@ -4,7 +4,6 @@ The X-70B Phantom-class prototype was a prototype starship of the reconstituted 
 The X-70B Phantom-class prototype is sold by -Classified-, on the planet Rust in the Kraz System.
 
 # Install
-
 Place the folder, "X70BPhantom", into the plugins folder found here:
 
 Linux: ~/.local/share/endless-sky/
