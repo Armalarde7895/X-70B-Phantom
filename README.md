@@ -4,7 +4,7 @@ The X-70B Phantom-class prototype was a prototype starship of the reconstituted 
 
 # Install
 
-Place the folder,"70BPhantom", into the plugins folder found here:
+Place the folder, "X70BPhantom", into the plugins folder found here:
 
 Linux: ~/.local/share/endless-sky/
 Windows: %AppData%\endless-sky\
