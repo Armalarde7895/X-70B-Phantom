@@ -7,7 +7,7 @@ ship "X-70B Phantom-class prototype"
 		"shields" 5600
 		"hull" 1400
 		"required crew" 1
-		"bunks" 5
+		"bunks" 7
 		"mass" 220
 		"drag" 5.0
 		"heat dissipation" .7
